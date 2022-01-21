@@ -1,0 +1,45 @@
+quick notes
+
+//Data types//
+
+string " Hello World!!"
+number "1,2,.."
+boolean true/false 
+
+keywords 
+
+alert("hello world!!");
+typeof(1);
+"number"
+
+typeof("pratik ");
+"string"
+
+typeof(true);
+"boolean
+
+// To Print// 
+console.log("message");
+
+//Alerts//
+alert("message");
+
+// to get input from user//
+prompt("message to display before input ");
+
+//concatinate//
+alert("pratik"+" "+"gupta";
+output : pratik gupta 
+
+//length of a string//
+string.length();
+
+//UPPERCASE & lowercase//
+
+string.toUpperCase();
+string.toLowerCase
+
+//slicing//
+string.slice(0,5);
+input= pratik 
+output= prati
