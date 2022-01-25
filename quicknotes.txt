@@ -32,7 +32,7 @@ alert("pratik"+" "+"gupta";
 output : pratik gupta 
 
 //length of a string//
-string.length();
+string.length;
 
 //UPPERCASE & lowercase//
 
@@ -43,3 +43,10 @@ string.toLowerCase
 string.slice(0,5);
 input= pratik 
 output= prati
+
+//DOM DOCUMENT OBJECT MODEL //
+
+document.getelementById("id-name");
+//to get the element using id 
+
+
